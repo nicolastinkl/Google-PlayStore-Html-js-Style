@@ -1,0 +1,296 @@
+Uri: https://813brs0.com/
+File Name: E:\逆向分析\813BET\813brs0.com\index.htm
+Content Type: text/html
+
+Uri: https://813brs0.com/img/13.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\13.png
+Content Type: image/png
+
+Uri: https://813brs0.com/img/813-1.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\813-1.png
+Content Type: image/png
+
+Uri: https://813brs0.com/img/813-2.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\813-2.png
+Content Type: image/png
+
+Uri: https://813brs0.com/img/813-3.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\813-3.png
+Content Type: image/png
+
+Uri: https://813brs0.com/img/813-4.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\813-4.png
+Content Type: image/png
+
+Uri: https://813brs0.com/img/logo-813bet.png
+File Name: E:\逆向分析\813BET\813brs0.com\img\logo-813bet.png
+Content Type: image/png
+
+Uri: https://fonts.gstatic.com/s/googlematerialicons/v137/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlematerialicons\v137\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2sACIlsw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2sACIlsw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2sQCIlsw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2sQCIlsw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2ugCIlsw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2ugCIlsw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vACIlsw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vACIlsw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vgCI.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vgCI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vQCIlsw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\googlesans\v29\4UaRrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMu2vQCIlsw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/materialiconsextended/v149/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\materialiconsextended\v149\kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\productsans\v9\pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\productsans\v9\pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: E:\逆向分析\813BET\813brs0.com\s\roboto\v18\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://lh3.ggpht.com/UaIc2B_JfXHF6PVELQxf13m5hkM2SNEbjbS-WQU6UD6JpmcGEh5dz81Crrg6OLWgp6k
+File Name: E:\逆向分析\813BET\813brs0.com\UaIc2B_JfXHF6PVELQxf13m5hkM2SNEbjbS-WQU6UD6JpmcGEh5dz81Crrg6OLWgp6k
+Content Type: image/gif
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocK8tt3pVzwICdmvO2aOsaSGqFHm5kHxZwE_1eRZwxGm=s32-c-k-cc
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocK8tt3pVzwICdmvO2aOsaSGqFHm5kHxZwE_1eRZwxGm=s32-c-k-cc
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocK8tt3pVzwICdmvO2aOsaSGqFHm5kHxZwE_1eRZwxGm=s64-c-k-cc
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocK8tt3pVzwICdmvO2aOsaSGqFHm5kHxZwE_1eRZwxGm=s64-c-k-cc
+Content Type: image/png
+
+Uri: https://lh6.ggpht.com/s4qReSaucUB6sgUYQFZQcF31FBvtVehCtvI6Bc_WUGuLkSCzTfODYs84VrtujdRA29Lp
+File Name: E:\逆向分析\813BET\813brs0.com\s4qReSaucUB6sgUYQFZQcF31FBvtVehCtvI6Bc_WUGuLkSCzTfODYs84VrtujdRA29Lp
+Content Type: image/gif
+
+Uri: https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw
+File Name: E:\逆向分析\813BET\813brs0.com\12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s40-rw
+File Name: E:\逆向分析\813BET\813brs0.com\12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s40-rw
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocIb575S0D-4XSOAFYZzzhZQaGmp5kVCiILo0TQak3I=s32-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocIb575S0D-4XSOAFYZzzhZQaGmp5kVCiILo0TQak3I=s32-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocIb575S0D-4XSOAFYZzzhZQaGmp5kVCiILo0TQak3I=s64-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocIb575S0D-4XSOAFYZzzhZQaGmp5kVCiILo0TQak3I=s64-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocISbOFeuI2_Q6ENRzuLOGv9QoUbwn0bo-cuP1uppB8H=s32-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocISbOFeuI2_Q6ENRzuLOGv9QoUbwn0bo-cuP1uppB8H=s32-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocISbOFeuI2_Q6ENRzuLOGv9QoUbwn0bo-cuP1uppB8H=s64-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocISbOFeuI2_Q6ENRzuLOGv9QoUbwn0bo-cuP1uppB8H=s64-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocKsM6Q_HVFmfcrErYpz0XfW2HFOEOXiJavySUFgo-RF=s32-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocKsM6Q_HVFmfcrErYpz0XfW2HFOEOXiJavySUFgo-RF=s32-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/a/ACg8ocKsM6Q_HVFmfcrErYpz0XfW2HFOEOXiJavySUFgo-RF=s64-rw-mo
+File Name: E:\逆向分析\813BET\813brs0.com\a\ACg8ocKsM6Q_HVFmfcrErYpz0XfW2HFOEOXiJavySUFgo-RF=s64-rw-mo
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw
+File Name: E:\逆向分析\813BET\813brs0.com\iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s40-rw
+File Name: E:\逆向分析\813BET\813brs0.com\iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s40-rw
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/neRBP16KYqhC7f1N3vUT1Q_HMLwAw7vXu8aOWOqvlY3JXNGd8qyXVNyAQyNLpdUdCV0kYEs9BXk=s20-rw
+File Name: E:\逆向分析\813BET\813brs0.com\neRBP16KYqhC7f1N3vUT1Q_HMLwAw7vXu8aOWOqvlY3JXNGd8qyXVNyAQyNLpdUdCV0kYEs9BXk=s20-rw
+Content Type: image/webp
+
+Uri: https://play-lh.googleusercontent.com/neRBP16KYqhC7f1N3vUT1Q_HMLwAw7vXu8aOWOqvlY3JXNGd8qyXVNyAQyNLpdUdCV0kYEs9BXk=s40-rw
+File Name: E:\逆向分析\813BET\813brs0.com\neRBP16KYqhC7f1N3vUT1Q_HMLwAw7vXu8aOWOqvlY3JXNGd8qyXVNyAQyNLpdUdCV0kYEs9BXk=s40-rw
+Content Type: image/webp
+
+Uri: https://ssl.gstatic.com/android/market_images/web/loading_dark_small.gif
+File Name: E:\逆向分析\813BET\813brs0.com\android\market_images\web\loading_dark_small.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/android/market_images/web/play_prism_hlock_m.png
+File Name: E:\逆向分析\813BET\813brs0.com\android\market_images\web\play_prism_hlock_m.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=337699042146593&ev=PageView&noscript=1
+File Name: E:\逆向分析\813BET\813brs0.com\tr
+Content Type: text/plain
+
+Uri: https://www.gstatic.com/android/market_images/web/favicon_v3.ico
+File Name: E:\逆向分析\813BET\813brs0.com\android\market_images\web\favicon_v3.ico
+Content Type: image/x-icon
+
+Uri: https://www.gstatic.com/feedback/js/ghelp/1c26ly1z72lel/chat_load.js
+File Name: E:\逆向分析\813BET\813brs0.com\feedback\js\ghelp\1c26ly1z72lel\chat_load.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
+File Name: E:\逆向分析\813BET\813brs0.com\feedback\js\help\prod\service\lazy.min.js
+Content Type: text/javascript
+
